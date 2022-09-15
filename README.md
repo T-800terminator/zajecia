@@ -1,1 +1,2 @@
-# Czesc nazywam sie Tomasz Szczerba
+# Pierwsza lekcja
+## Pierwsza zmiana
